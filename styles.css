@@ -86,6 +86,7 @@ main{
 #order-plan a:hover{
     color: rgba(193, 94, 229, 0.69);
 }
+
 .btn-payment{
     border: none;
     background: hsl(245, 75%, 52%);
@@ -100,7 +101,8 @@ main{
     cursor: pointer;
 
 }
-.btn-payment :hover{
+
+.btn-payment:hover{
     background: rgba(193, 94, 229, 0.69);
 }
 .cancel-div{
